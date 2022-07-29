@@ -1,0 +1,39 @@
+body{
+    background: linear-gradient(white,#a7bfe8, #6190e8);
+}
+table{
+    margin: auto auto;
+    border-collapse: separate;
+    border-spacing: 20px;
+}
+
+th, thead, tr{
+    border: 2px solid black;
+    font-size: 5vh;
+    font-family: Helvetica,Arial;
+    padding: 1rem;
+    box-shadow: -14px 2px 12px -3px rgba(0,0,0,0.75);
+    -webkit-box-shadow: -14px 2px 12px -3px rgba(0,0,0,0.75);
+    -moz-box-shadow: -14px 2px 12px -3px rgba(0,0,0,0.75);;
+}
+
+.aed{
+    background-color: lightblue;
+}
+.alg{
+    background-color: thistle;
+}
+.special{
+    background-color: darkorange;
+}
+
+.exercise{
+    color: white;
+    background-color: brown;
+}
+h1{
+    font-size: 8vh;
+    font-family: Helvetica,Arial;
+    text-align: center;
+}
+
